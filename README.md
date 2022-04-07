@@ -1,10 +1,10 @@
-# Advanced Test - Programming Basics
+# Programming Basics - Review
 
-## Test Instructions
+## Instructions
 * Work from the `index.js` file provided in this repository.
-* Follow all of the instructions below to complete the test.
+* Follow all of the instructions below to complete the review.
 * **Important**: Make sure that the names of your variables/functions/classes match the names in the instructions below.
-* You can check whether your answers pass the unit tests provided. However, do not spend too much time trying to fix your issues to make them pass the tests - move on and try to attempt all questions.
+* You can check whether your answers pass the unit tests provided.
 * Most tasks require to write a function. Make sure your function returns the expected results as a value
 * Call your functions to test them, and print the return values to the console.
 * Make sure to commit and push your test.
